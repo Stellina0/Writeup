@@ -1,0 +1,1 @@
+https://medium.com/@fkuckky/picoctf-asm1-reverse-engineering-writeup-5e7c4446b352
